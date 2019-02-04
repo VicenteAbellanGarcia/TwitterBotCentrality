@@ -72,8 +72,8 @@ auth.set_access_token(ACCESS_KEYS[0], ACCESS_SECRETS[0])
 api = tweepy.API(auth, wait_on_rate_limit=True,wait_on_rate_limit_notify=True,compression=True)
  
 print("Start")
-query = '#python'
-max_tweets = 60
+query = '#python' #TopicToSearch
+max_tweets = 60   #Number of tweets
 searched_tweets = [status for status in tweepy.Cursor(api.search, q=query).items(max_tweets)]
 #query = api.search("#python",count=17)
 
