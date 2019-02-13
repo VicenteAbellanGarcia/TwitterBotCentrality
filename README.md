@@ -19,3 +19,5 @@ have to wait if you use too many access to the API, for this bot you'll need do 
 - The bot'll look for the tweets, it'll get the twitter accounts who tweeted it (you can modify how many tweets you want check in "max_tweets)
 and will check if that accounts are related (following and/or followed). Finally, the bot will generate a pdf with a directed graph 
 of the accounts and will asociate a value for each account based in how many relations it has (Centrality)
+
+![alt tag](https://i.gyazo.com/7a83d010d76110d96712e5af0c667e6d.png)
