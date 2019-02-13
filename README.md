@@ -2,7 +2,9 @@
 This is a twitter bot which calculate the Centrality of a number of twitter accounts based in a search of words and the accounts relations
 that have tweeted about that words generating a graph and associating a value to each account.
 
-How this works:
+![alt tag](https://i.gyazo.com/b12921b92f62c6bb2586bc436c3857c2.png)
+
+## How this works
 
 - You'll need a twitter account prepared for work with the API, you can get it and check for information here: https://developer.twitter.com/en.html
 
