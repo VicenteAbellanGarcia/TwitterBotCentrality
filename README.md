@@ -4,7 +4,7 @@ that have tweeted about that words generating a graph and associating a value to
 
 ![alt tag](https://i.gyazo.com/b12921b92f62c6bb2586bc436c3857c2.png)
 
-## How this works
+## How it works
 
 - You'll need a twitter account prepared for work with the API, you can get it and check for information here: https://developer.twitter.com/en.html
 
