@@ -8,7 +8,7 @@ that have tweeted about that words generating a graph and associating a value to
 
 - You'll need a twitter account prepared for work with the API, you can get it and check for information here: https://developer.twitter.com/en.html
 
-- One time you have your twitter account and 1 APP created you'll recive a CONSUMER KEY, CONSUMER SECRET, ACCESS KEY and ACCESS SECRETS which
+- Once you have your twitter account and 1 APP created you'll recive a CONSUMER KEY, CONSUMER SECRET, ACCESS KEY and ACCESS SECRETS which
 are the tokens for work. In my case, I have been using 2 accounts with 8 APPS created (you can have 4 per account as free) because you'll
 have to wait if you use too many access to the API, for this bot you'll need do it.
 
